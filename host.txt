@@ -2,8 +2,6 @@ pubgmobile.com
 dl.listdl.com
 dl.tomjson.com
 pandoracdn.amsoveasea.com
-googleads.g.doubleclick.net
-csi.gstatic.com
 idcconfig.gcloudsdk.com
 hk.api.unipay.qq.com
 midas.gtimg.cn
@@ -11,8 +9,6 @@ www.midasbuy.com
 pandora.game.qq.com
 napubgm.broker.amsoveasea.com
 nawzryhwatm.broker.amsoveasea.com
-hk.voice.gcloudcs.com
-sdkconfig.ad.xiaomi.com
 www.pubgmobile.com
 qos.hk.gcloudcs.com
 na-west.shadow.igamecj.com
@@ -37,7 +33,6 @@ naping.igamecj.com
 hkping.igamecj.com
 meping.igamecj.com
 krping.igamecj.com
-lh3.googleusercontent.com
 3021-shadow.igamecj.com
 5004-shadow.igamecj.com
 kj-se.shadow.igamecj.com
@@ -50,7 +45,6 @@ as-hk.shadow.igamecj.com
 3009-shadow.igamecj.com
 as-sg.shadow.igamecj.com
 hkspeed.igamecj.com
-graph.facebook.com
 cloudctrl.gcloudsdk.com
 app.adjust.com
 app.adjust.net.in
@@ -68,12 +62,3 @@ k.gjacky.com
 sg.tdatamaster.com
 astat.bugly.qcloud.com
 mgl.public.igamecj.com
-49.51.42.152
-179.60.194.27
-162.62.81.157
-203.205.235.67
-203.205.155.69
-119.28.229.113
-129.226.1.114
-129.226.2.142
-10.215.173.2
